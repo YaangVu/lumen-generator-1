@@ -1,5 +1,5 @@
 {
-    "name": "flipbox/lumen-generator",
+    "name": "yaangvu/lumen-generator-forked",
     "description": "A Lumen Generator You Are Missing",
     "type": "library",
     "require": {
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Krisan Alfa Timur",
-            "email": "krisan47@gmail.com"
+            "name": "YaangVu",
+            "email": "yaangvu@gmail.com"
         }
     ],
     "autoload": {

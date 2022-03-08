@@ -13,7 +13,7 @@ If yes, then you're in the right place.
 To use _some_ generators command in Lumen (just like you do in Laravel), you need to add this package:
 
 ```sh
-composer require yaangVu/lumen-generator-forked
+composer require yaangvu/lumen-generator-forked
 ```
 
 ## Configuration
