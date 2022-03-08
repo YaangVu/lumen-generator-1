@@ -13,7 +13,7 @@ If yes, then you're in the right place.
 To use _some_ generators command in Lumen (just like you do in Laravel), you need to add this package:
 
 ```sh
-composer require flipbox/lumen-generator
+composer require yaangVu/lumen-generator-forked
 ```
 
 ## Configuration
@@ -74,7 +74,7 @@ route:list        Display all registered routes.
 `php artisan tinker path/to/tinker/script.php`
 
 script.php example:
-```
+```php
 $environment = app()->environment();
 $output = new Symfony\Component\Console\Output\ConsoleOutput();
 $output->writeln("<info>Hello the app environment is `{$environment}`</info>");
